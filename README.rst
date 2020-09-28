@@ -1,5 +1,5 @@
-Electrum - Lightweight Bitcoin client
-=====================================
+SpcElectrum - Multi-signature Bitcoin wallet
+=================================================
 
 ::
 
